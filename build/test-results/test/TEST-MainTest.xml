@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-02-25T04:21:20" hostname="apples-MacBook-Pro.local" time="0.467">
+  <properties/>
+  <testcase name="badExpressionFormatted()" classname="MainTest" time="0.353"/>
+  <testcase name="goodExpression()" classname="MainTest" time="0.001"/>
+  <testcase name="badCommand()" classname="MainTest" time="0.001"/>
+  <testcase name="badType()" classname="MainTest" time="0.001"/>
+  <testcase name="badEvaluation()" classname="MainTest" time="0.03"/>
+  <testcase name="goodExpressionFormatted()" classname="MainTest" time="0.003"/>
+  <testcase name="badOrderTypeExpressionFormatted()" classname="MainTest" time="0.001"/>
+  <testcase name="goodCommand()" classname="MainTest" time="0.001"/>
+  <testcase name="badExpression()" classname="MainTest" time="0.001"/>
+  <testcase name="goodEvaluation()" classname="MainTest" time="0.062"/>
+  <testcase name="goodType()" classname="MainTest" time="0.0"/>
+  <system-out><![CDATA[Sorry bad formed expression
+We're sorry, internal error, try again using PRE or POST statement
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
